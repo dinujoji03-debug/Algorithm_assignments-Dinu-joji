@@ -1,0 +1,21 @@
+STOCK DATA
+------------------------------------
+Name	Cost	Return	Risk
+Stock A	1000	120	5
+Stock B	2000	300	7
+Stock C	1500	200	6
+Stock D	1200	150	4
+
+Available Budget: 4000
+
+OPTIMAL PORTFOLIO
+------------------------------------
+Stock B
+Stock C
+
+Total Investment: 3500
+Maximum Expected Return: 500
+Total Risk: 13
+
+Time Complexity: O(n * budget)
+Execution Time: 0.002775 seconds
