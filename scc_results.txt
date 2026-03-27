@@ -1,0 +1,3 @@
+Strongly Connected Components (SCCs)
+------------------------------------
+SCC 1: { a, c, b, d, f, e, g, h }
